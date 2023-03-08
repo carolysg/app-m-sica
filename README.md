@@ -9,8 +9,7 @@ Este aplicativo consiste em um programa simulando um aplicativo de streaming. El
 ## Fluxos
 Ao abrir o programa, ele oferece um menu com exatamente 3 opções: logar como administrador, logar como usuário ou sair.
 
-**Admin**
-O menu de admin oferece 2 opções:
+**Admin** - O menu de admin oferece 2 opções:
 - Registrar artista
 - Registrar álbum
 - Sair
@@ -18,8 +17,7 @@ O menu de admin oferece 2 opções:
 No primeiro caso, o admin digita o nome de um novo artista. Caso o nome ainda não exista na base, ele será criado.
 No segundo caso, o admin deve digitar primeiramente o artista - o artista precisa já existir. Em seguida o programa pergunta quantas músicas o álbum terá e pergunta o nome de cada uma. O álbum é criado e a estrutura do artista é atualizada para contabilizar o álbum novo.
 
-**Usuário**
-O menu de usuário também oferece 2 opções:
+**Usuário** - O menu de usuário também oferece 2 opções:
 - Buscar playlist
 - Criar playlist
 - Sair
