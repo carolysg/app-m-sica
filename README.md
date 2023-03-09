@@ -35,5 +35,5 @@ Caso o usuário opte por criar uma playlist, ele deve primeiro digitar o nome da
 Todos os dados são salvos no formato JSON. Dois arquivos são gerados: uma base de artistas e álbuns e uma base de playlists. 
 As duas base de dados iniciais são fornecidas, assim como o código para salvá-las.
 
-## Conceitos do módulo
+## Conceitos do projeto
 Neste projeto, tentei utilizar modularização de funções, algumas técnicas de programação funcional e tratamento de exceções.
