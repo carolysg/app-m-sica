@@ -32,3 +32,8 @@ Caso o usuário escolha a primeira opção, é pedido para ele digitar uma músi
 Caso o usuário opte por criar uma playlist, ele deve primeiro digitar o nome da playlist. Em seguida, o usuário deve buscar - necessariamente nessa ordem - o artista, o álbum e a música. Sendo encontrada, a música será adicionada à playlist. Se em qualquer um dos níveis a música não for encontrada, o programa torna a perguntar o artista. Quando o usuário sinalizar que finalizou, o programa retorna para o menu inicial de usuário.
 
 ## Dados
+Todos os dados são salvos no formato JSON. Dois arquivos são gerados: uma base de artistas e álbuns e uma base de playlists. 
+As duas base de dados iniciais são fornecidas, assim como o código para salvá-las.
+
+## Conceitos do módulo
+Neste projeto, tentei utilizar modularização de funções, algumas técnicas de programação funcional e tratamento de exceções.
